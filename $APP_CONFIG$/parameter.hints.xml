@@ -1,0 +1,12 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <option id="SHOW_PROPERTY_HINT" value="true" />
+    <option id="SHOW_FUNCTION_HINT" value="true" />
+    <disabledLanguages>
+      <language id="JAVA" />
+      <language id="ObjectiveC" />
+      <language id="kotlin" />
+      <language id="Groovy" />
+    </disabledLanguages>
+  </component>
+</application>

@@ -1,0 +1,12 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="names_lines">
+      <action id="ShowIntentionActions" />
+      <typing text-keycode="78:0;65:0;77:0;69:0;83:0">names</typing>
+      <shortuct text="ENTER" />
+      <action id="ShowIntentionActions" />
+      <typing text-keycode="83:0;69:0;80:0;65:0;82:0">separ</typing>
+      <shortuct text="ENTER" />
+    </macro>
+  </component>
+</application>

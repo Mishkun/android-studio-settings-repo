@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Groovy/Groovy-style/Add explicit types for all parameters in method declaration" />
+  </component>
+</application>
