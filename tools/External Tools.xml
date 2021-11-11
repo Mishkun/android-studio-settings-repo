@@ -20,4 +20,18 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
+  <tool name="Launch Screenshots Emulator" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="emulator" />
+      <option name="PARAMETERS" value="-avd SHOT_SCREEN_Pixel_2_API_26" />
+      <option name="WORKING_DIRECTORY" value="~/Library/Android/sdk/emulator" />
+    </exec>
+  </tool>
+  <tool name="Launch Dev Emulator" description="./Library/Android/sdk/emulator/emulator" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="./emulator" />
+      <option name="PARAMETERS" value="-avd Pixel_2_API_29" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Library/Android/sdk/emulator" />
+    </exec>
+  </tool>
 </toolSet>
