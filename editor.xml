@@ -2,6 +2,8 @@
   <component name="CodeInsightSettings">
     <EXCLUDED_PACKAGE NAME="android.icu.lang.UCharacter.GraphemeClusterBreak.L" />
     <EXCLUDED_PACKAGE NAME="com.airbnb.lottie.L" />
+    <EXCLUDED_PACKAGE NAME="java.lang.reflect.Modifier" />
+    <EXCLUDED_PACKAGE NAME="java.nio.file.WatchEvent.Modifier" />
     <EXCLUDED_PACKAGE NAME="kotlinx.serialization.cbor.Cbor.Companion.context" />
     <EXCLUDED_PACKAGE NAME="kotlinx.serialization.json.Json.Companion.context" />
     <EXCLUDED_PACKAGE NAME="kotlinx.serialization.protobuf.ProtoBuf.Companion.context" />
