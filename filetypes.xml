@@ -4,6 +4,7 @@
       <mapping pattern=".atamanrc.config" type="HOCON" />
       <mapping pattern="activated_tinkoff_2.json" type="JSON" />
       <mapping pattern="tech_support" type="JSON" />
+      <mapping ext="graphqlconfig" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
