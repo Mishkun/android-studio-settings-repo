@@ -2,8 +2,8 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern=".atamanrc.config" type="HOCON" />
-      <mapping pattern="activated_tinkoff_2.json" type="JSON" />
       <mapping pattern="tech_support" type="JSON" />
+      <mapping pattern="activated_tinkoff_2.json" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
@@ -12,6 +12,7 @@
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping pattern="push-nomaster-build" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="md" approved="true" type="Markdown" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
