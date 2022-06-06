@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="3bc34d5a-afe3-4832-93ae-c60962c87645" type="AUTO_DETECTED" />
       <mapping pattern=".atamanrc.config" type="HOCON" />
       <mapping pattern="tech_support" type="JSON" />
       <mapping pattern="activated_tinkoff_2.json" type="JSON" />
