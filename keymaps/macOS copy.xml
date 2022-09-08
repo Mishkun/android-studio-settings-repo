@@ -10,6 +10,12 @@
   <action id="Adtui.ZoomToActualAction">
     <keyboard-shortcut first-keystroke="meta numpad0" />
   </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="NewElementInMenuGroup">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
   <action id="QuickPreview" />
   <action id="TransparentLeaderAction">
     <keyboard-shortcut first-keystroke="space" />
