@@ -8,12 +8,6 @@
     <EXCLUDED_PACKAGE NAME="kotlinx.serialization.json.Json.Companion.context" />
     <EXCLUDED_PACKAGE NAME="kotlinx.serialization.protobuf.ProtoBuf.Companion.context" />
   </component>
-  <component name="DefaultFont">
-    <option name="FONT_SIZE" value="18" />
-    <option name="FONT_FAMILY" value="Iosevka" />
-    <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
-    <option name="FONT_BOLD_SUB_FAMILY" value="Bold" />
-  </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
