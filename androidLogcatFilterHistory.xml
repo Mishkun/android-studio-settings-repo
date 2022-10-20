@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:OrientationLocker" />
+    <option name="mostRecentlyUsed" value="package:mine tag:TestLayout " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:TestLayout " />
         <option value="tag:OrientationLocker" />
         <option value="tag:PanoramaAction " />
         <option value="tag:PanoramaAction" />
