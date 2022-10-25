@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:Yoga" />
+    <option name="mostRecentlyUsed" value="tag:Yoga" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Yoga" />
+        <option value="package:mine" />
         <option value="package:mine tag:Yoga" />
         <option value="package:mine " />
         <option value="package:mine tag:YogaLayoutComposable" />
@@ -13,7 +15,6 @@
         <option value="tag:PanoramaAction" />
         <option value="tag:" />
         <option value="tag:Panorama*" />
-        <option value="package:mine" />
         <option value="level:ERROR " />
         <option value="Matcher" />
         <option value="tag:MATCHER" />
