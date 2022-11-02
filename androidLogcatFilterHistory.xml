@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="tag:okhttp.OkHttpClient " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:okhttp.OkHttpClient " />
         <option value="package:mine " />
         <option value="tag:YogaCompose#pts " />
         <option value="package:mine tag:YogaCompose" />
