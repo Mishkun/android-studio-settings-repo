@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:YogaCompose#insurance_payments " />
+    <option name="mostRecentlyUsed" value="tag:YogaCompose" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:YogaCompose" />
         <option value="tag:YogaCompose#insurance_payments " />
         <option value="tag:YogaCompose#fines" />
         <option value="connectionAcquired" />
@@ -22,7 +23,6 @@
         <option value="tag:OrientationLocker" />
         <option value="tag:PanoramaAction " />
         <option value="tag:PanoramaAction" />
-        <option value="tag:" />
       </list>
     </option>
   </component>
