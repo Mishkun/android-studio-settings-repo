@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="tag:YogaComposeLayout" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:YogaComposeLayout" />
+        <option value="-tag:ViewTarget " />
         <option value="tag:YogaComposeLayout " />
         <option value="tag:YogaLayoutCompose " />
-        <option value="tag:YogaComposeLayout" />
         <option value="tag:ComposeRendererDelegateAdapter" />
         <option value="tag:YogaCompose" />
         <option value="tag:YogaCompose#insurance_payments " />
@@ -22,7 +23,6 @@
         <option value="tag:Yoga" />
         <option value="package:mine" />
         <option value="package:mine tag:Yoga" />
-        <option value="package:mine tag:YogaLayoutComposable" />
       </list>
     </option>
   </component>
