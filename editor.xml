@@ -8,6 +8,9 @@
     <EXCLUDED_PACKAGE NAME="kotlinx.serialization.json.Json.Companion.context" />
     <EXCLUDED_PACKAGE NAME="kotlinx.serialization.protobuf.ProtoBuf.Companion.context" />
   </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="AUTOREPARSE_DELAY" value="0" />
+  </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
