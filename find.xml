@@ -13,8 +13,8 @@
     <mask>*pro</mask>
     <mask>*xml</mask>
     <mask>*java*</mask>
-    <mask>*xml*</mask>
     <mask>*pro*</mask>
     <mask>*gradle*</mask>
+    <mask>*xml*</mask>
   </component>
 </application>
